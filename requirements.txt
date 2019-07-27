@@ -2,4 +2,3 @@ configparser
 flask
 flask-sqlalchemy
 mysql-python
-
