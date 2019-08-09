@@ -4,6 +4,8 @@ Users will be prompted with a poll question and related options. They can vote p
 
 This application is intended for demo only.
 
+# Update 1 for Demo
+
 ## Local deployment
 This application can be deployed locally. On linux, install git and clone the reposistory
 
